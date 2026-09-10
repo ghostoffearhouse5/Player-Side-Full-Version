@@ -235,3 +235,6 @@ This repository serves as the official landing page for Player Side. The softwar
 [![Download Latest Version](https://img.shields.io/badge/📥%20Download%20Latest%20Version-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://player-side.com)
 
 **Get the most recent version of Player Side today!**
+
+---
+**Last updated:** 2026-09-10 09:26:25 UTC
